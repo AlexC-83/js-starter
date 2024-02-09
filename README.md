@@ -4,6 +4,8 @@
 
 ### Installing Node
 
+Install Node >=18
+
 https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating
 
 Clone this repo
